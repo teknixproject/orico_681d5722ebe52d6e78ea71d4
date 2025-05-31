@@ -20,4 +20,5 @@ export const components = {
   CustomWidgete920019b2412: dynamic(() => import('./CustomWidgete920019b2412')),
   NavigationBar: dynamic(() => import("./NavigationBar")),
   CustomWidget34f27b0856c5: dynamic(() => import("./CustomWidget34f27b0856c5")),
+  CustomWidgetbd4544b4a4d5: dynamic(() => import("./CustomWidgetbd4544b4a4d5")),
 };
